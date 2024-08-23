@@ -1,0 +1,1 @@
+# Projeto_segmentacao_pulmao_AvantiBootcamp_Grupo2
